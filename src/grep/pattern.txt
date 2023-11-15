@@ -1,0 +1,4 @@
+int
+return
+#include <stdlib.h>
+trc
